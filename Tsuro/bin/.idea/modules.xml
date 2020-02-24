@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Tsuro.iml" filepath="$PROJECT_DIR$/Tsuro.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Working2.iml" filepath="$PROJECT_DIR$/.idea/Working2.iml" />
+>>>>>>> f4428ade60ca1a67cda3283182ff6e89ff82bfde
+    </modules>
+  </component>
+</project>
